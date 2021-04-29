@@ -1,6 +1,6 @@
 - 👋 Oi, sou Davi @Davi95-BR
 - 👀 Eu estou interessado em uma oportunidade no mercado de Programação
-- 🌱 Estou aprendendo sobre frontend
+- 🌱 Estou aprendendo framewoks Front-End
 - Segue abaixo as plataformas que tenho conhecimento :
 
 
