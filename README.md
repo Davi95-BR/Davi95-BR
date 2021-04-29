@@ -1,6 +1,6 @@
 - 👋 Oi, sou Davi @Davi95-BR
 - 👀 Eu estou interessado em uma oportunidade no mercado de Programação
-- 🌱 Estou aprendendo framewoks Front-End
+- 🌱 Estou aprendendo Framewok React para o Front-End
 - Segue abaixo as plataformas que tenho conhecimento :
 
 
