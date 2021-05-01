@@ -4,7 +4,8 @@
 - Segue abaixo as plataformas que tenho conhecimento :
 
 
-![css](https://user-images.githubusercontent.com/74278382/116788305-39124800-aa7f-11eb-89e8-dfefa7315bf4.png) ![git](https://user-images.githubusercontent.com/74278382/116788313-44fe0a00-aa7f-11eb-8350-d59c2ee3be9f.png) ![javascript](https://user-images.githubusercontent.com/74278382/116788333-5b0bca80-aa7f-11eb-9766-c8b866b83739.png) ![excel](https://user-images.githubusercontent.com/74278382/116788384-9908ee80-aa7f-11eb-98fd-423d7e803594.png)
+![css](https://user-images.githubusercontent.com/74278382/116788305-39124800-aa7f-11eb-89e8-dfefa7315bf4.png) ![git](https://user-images.githubusercontent.com/74278382/116788313-44fe0a00-aa7f-11eb-8350-d59c2ee3be9f.png) ![javascript](https://user-images.githubusercontent.com/74278382/116788333-5b0bca80-aa7f-11eb-9766-c8b866b83739.png) ![excel](https://user-images.githubusercontent.com/74278382/116788384-9908ee80-aa7f-11eb-98fd-423d7e803594.png)   ![html](https://user-images.githubusercontent.com/74278382/116788494-3f54f400-aa80-11eb-947e-bdfcea7cb2d2.png)
+
 
 
 
