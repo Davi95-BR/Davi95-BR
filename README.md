@@ -2,7 +2,7 @@
 <ul>
   <li>👋 Oi, sou Davi @Davi95-BR</li>
   <li>👀 Eu estou interessado em uma oportunidade no mercado de Programação</li>
-  <li>🌱 Estou aprendendo Framewok React para o Front-End</li>
+  <li>🌱 Estou aprendendo Framewok React para o Front-End e Banco de Dados com Azure e SQL Server</li>
   </ul>
 <h3>Segue abaixo as plataformas que tenho conhecimento :</h3>
 <br><br>
